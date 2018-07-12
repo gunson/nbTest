@@ -1,0 +1,14 @@
+#netbeans
+core
+nbproject/*
+
+#java
+*.class
+
+#OS
+*.log
+*.out
+*~
+*.DS_Store
+*.lock
+
